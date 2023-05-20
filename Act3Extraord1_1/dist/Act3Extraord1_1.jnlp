@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="Act3Extraord1_1.jar" size="8020" download="eager" />
+    <jar href="Act3Extraord1_1.jar" size="8041" download="eager" />
   </resources>
   <jfx:javafx-desc  width="800" height="600" main-class="act3extraord1_1.Act3Extraord1_1"  name="Act3Extraord1_1" />
   <update check="always"/>
